@@ -7,7 +7,7 @@ from io import BytesIO
 st.set_page_config(page_title="sketchi-py",page_icon="🎨")
 
 st.markdown(
-    f'<h1 style="color:#22ebff;">StreamlitSketchr: Magical Sketches</h1>',
+    f'<h1 style="color:#22ebff;">StreamlitSketchR: Magical Sketches</h1>',
     unsafe_allow_html=True
 )
 
